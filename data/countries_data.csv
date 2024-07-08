@@ -1,0 +1,247 @@
+Country Name,Country Code
+Afghanistan,YA
+Albania,ZA
+Algeria,7T
+American Samoa,Nas
+Andorra,C3
+Angola,D2
+Anguilla,VP-A
+Antigua and Barbuda,V2
+Argentina,LV
+Armenia,EK
+Aruba,P4
+Australia,VH
+Austria,OE
+Azerbaijan,4K
+Bahamas,C6
+Bahrain,A9C
+Bangladesh,S2
+Barbados,8P
+Belarus,EW
+Belgium,OO
+Belize,V3
+Benin,TY
+Bermuda,VP-B
+Bhutan,A5
+Bolivia,CP
+Bosnia and Herzegovina,T9
+Botswana,A2
+Brazil,PP
+British Virgin Islands,VP-L
+Brunei,V8
+Bulgaria,LZ
+Burkina Faso,XT
+Burundi,9U
+Cambodia,XU
+Cameroon,TJ
+Canada,C
+Cape Verde,D4
+Caribbean Netherlands,PJbes
+Cayman Islands,VP-C
+Central African Republic,TL
+Chad,TT
+Chile,CC
+China,B
+Colombia,HK
+Comoros,D6
+Congo,TN
+Congo (former Zaire),9Q
+Costa Rica,TI
+Cote d'Ivoire,TU
+Croatia,9A
+Cuba,CU
+Curaçao,PJ
+Cyprus,5B
+Czech Republic,OK
+Denmark,OY
+Djibouti,J2
+Dominica,J7
+Dominican Republic,HI
+East Timor,CR-T
+Ecuador,HC
+Egypt,SU
+El Salvador,YS
+Equatorial Guinea,3C
+Eritrea,E3
+Estonia,ES
+Eswatini,3D
+Ethiopia,ET
+Falkland Islands,VP-F
+Fiji,DQ
+Finland,OH
+France,F
+French Guiana,F-Ofg
+French Polynesia,F-Opo
+Guadeloupe,F-Ogu
+Martinique,F-Oma
+New Caledonia,F-Onc
+Réunion,F-Ore
+St. Pierre and Miquelon,F-Osp
+French Guiana,F-Ofg
+French Polynesia,F-Opo
+Gabon,TR
+Gambia,C5
+Georgia,4L
+Germany,D
+Ghana,9G
+Gibraltar,VP-G
+Greece,SX
+Greenland,OYg
+Grenada,J3
+Guadeloupe,F-Ogu
+Guam,Ngu
+Guatemala,TG
+Guinea,3X
+Guinea-Bissau,J5
+Guyana,8R
+Haiti,HH
+Honduras,HR
+Hong Kong,VR-H
+Hungary,HA
+Iceland,TF
+India,VT
+Indonesia,PK
+Iran,EP
+Iraq,YI
+Ireland,EI
+Israel,4X
+Italy,I
+Jamaica,6Y
+Japan,JA
+Jordan,JY
+Kazakhstan,UN
+Kenya,5Y
+Kiribati,T3
+Kosovo,Z6
+Kuwait,9K
+Kyrgyzstan,EX
+Laos,RDPL
+Latvia,YL
+Lebanon,OD
+Lesotho,7P
+Liberia,EL
+Libya,5A
+Lithuania,LY
+Luxembourg,LX
+Macau,B-M
+Macedonia (FYROM),Z3
+Madagascar,5R
+Malawi,7Q
+Malaysia,9M
+Maldives,8Q
+Mali,TZ
+Malta,9H
+Marshall Islands,V7
+Martinique,F-Oma
+Mauritania,5T
+Mauritius,3B
+Mexico,XA
+Micronesia,V6
+Moldova,ER
+Monaco,3A
+Mongolia,MT
+Montenegro,YUm
+Montserrat,VP-M
+Morocco,CN
+Mozambique,C9
+Myanmar,XY
+Namibia,V5
+Nauru,C2
+Nepal,9N
+Netherlands,PH
+Caribbean Netherlands,PJbes
+New Caledonia,F-Onc
+New Zealand,ZK
+Nicaragua,YN
+Niger,5U
+Nigeria,5N
+North Korea,P
+Northern Mariana Islands,Nnm
+Norway,LN
+Oman,A4O
+Pakistan,AP
+Palau,T8A
+Panama,HP
+Papua New Guinea,P2
+Paraguay,ZP
+Peru,OB
+Philippines,RP
+Poland,SP
+Portugal,CS
+Puerto Rico,Npr
+Qatar,A7
+Réunion,F-Ore
+Romania,YR
+Russia,RA
+Rwanda,9XR
+Saint Helena,Gsh
+Saint Lucia,J6
+Saint Vincent and the Grenadines,J8
+Saint Pierre and Miquelon,F-Osp
+Samoa,5W
+San Marino,T7
+Sao Tome and Principe,S9
+Saudi Arabia,HZ
+Senegal,6V
+Serbia,YU
+Seychelles,S7
+Sierra Leone,9L
+Singapore,9V
+Sint Maarten,PJsm
+Slovakia,OM
+Slovenia,S5
+Solomon Islands,H4
+Somalia,6O
+South Africa,ZS
+South Korea,HL
+South Sudan,STss
+Spain,EC
+Sri Lanka,4R
+St. Kitts and Nevis,V4
+Sudan,ST
+Suriname,PZ
+Sweden,SE
+Switzerland,HB
+Syria,YK
+Taiwan,Bt
+Tajikistan,EY
+Tanzania,5H
+Thailand,HS
+Timor (East),CR-T
+Togo,5V
+Tonga,A3
+Trinidad and Tobago,9Y
+Tunisia,TS
+Turkey,TC
+Turkmenistan,EZ
+Turks and Caicos Islands,VQ-T
+Tuvalu,T2
+Uganda,5X
+Ukraine,UR
+United Arab Emirates,A6
+United Kingdom,G
+Uruguay,CX
+USA,N
+American Samoa,Nas
+Guam,Ngu
+Northern Mariana Islands,Nnm
+Puerto Rico,Npr
+U.S. Minor Outlying Islands,Nmo
+Virgin Islands (U.S.),Nvi
+U.S. Minor Outlying Islands,Nmo
+Uzbekistan,UK
+Vanuatu,YJ
+Venezuela,YV
+Vietnam,VN
+Virgin Islands (U.S.),Nvi
+Western Sahara,EH
+Yemen,7O
+Zambia,9J
+Zimbabwe,Z
+Antarctica,ant
+North Pole,nop
+Atlantic Ocean,atl
+Mediterranean Sea,med
+Indian Ocean,ind
+Pacific Ocean,pac
+Unknown country,unk
