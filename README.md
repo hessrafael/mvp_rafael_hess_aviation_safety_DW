@@ -1,9 +1,9 @@
-# Pós-Graduação Ciência de Dados e Analytics - PUCRio - Sprint 2
+# Pós-Graduação Ciência de Dados e Analytics - PUCRio - Sprint 2 - Engenharia de Dados
 
 ## Autor: Rafael Hess Almaleh
 ## Data: 12/07/2024
 
-Projeto MVP para criação de pipeline de dados e construção de Datawarehouse na nuvem (Databricks) para análise de dados históricos de acidentes aéreos
+Projeto MVP da disciplina de Engenharia de Dados para criação de pipeline de dados e construção de Datawarehouse na nuvem (Databricks) para análise de dados históricos de acidentes aéreos
 
 > [!IMPORTANT]
 >  O **relatório do projeto** está presente na **Wiki** deste projeto disponível para avaliação (https://github.com/hessrafael/mvp_rafael_hess_aviation_safety_DW/wiki)
